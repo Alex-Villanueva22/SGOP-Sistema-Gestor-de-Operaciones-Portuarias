@@ -6,7 +6,7 @@
 
 ## 🎯 El Desafío
 La operación de un puerto comercial es un rompecabezas logístico que requiere sincronización exacta entre el muelle, el almacén y las embarcaciones.
-* **Problema:** La complejidad de gestionar múltiples tipos de carga (químicos, congelados, granel) y asegurar que cada operario cumpla su función sin conflictos de datos.
+* **Problema:** La complejidad de gestionar múltiples tipos de carga (químicos, congelados, alimentos, etc) y asegurar que cada operario cumpla su función sin conflictos de datos.
 * **Solución:** Una aplicación robusta en Java con persistencia en MySQL que implementa un sistema de permisos basado en roles para emular el flujo de trabajo real de un puerto marítimo.
 
 ## 🛠️ Tecnologías Utilizadas
