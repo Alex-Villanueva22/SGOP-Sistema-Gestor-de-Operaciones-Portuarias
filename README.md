@@ -1,4 +1,4 @@
-# ⚓ PortManager: Sistema de Gestión de Operaciones Marítimas
+# ⚓ SGOP: Sistema de Gestión de Operaciones Marítimas
 
 > Un sistema integral de gestión portuaria diseñado para coordinar la logística de importación/exportación mediante un control estricto de roles y estados operativos en tiempo real.
 
