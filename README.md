@@ -27,3 +27,6 @@ El sistema segmenta las responsabilidades para garantizar la eficiencia operativ
 * ✅ **Seguridad por Roles:** Acceso restringido a módulos específicos según el perfil del usuario logueado.
 * ✅ **Integridad de Datos:** Validaciones en Java para evitar errores comunes, como asignar un barco a un muelle ocupado o un contenedor a una zona incompatible.
 * ✅ **Simulación Logística:** Flujo completo desde la llegada del barco hasta el despacho final de la carga.
+
+## 🎓 Contexto Académico
+Proyecto desarrollado para la asignatura de **Algorítmica**.
