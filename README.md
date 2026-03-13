@@ -18,7 +18,7 @@ La operación de un puerto comercial es un rompecabezas logístico que requiere 
 El sistema segmenta las responsabilidades para garantizar la eficiencia operativa:
 
 * **Operador de Muelle:** Control de tráfico marítimo. Asignación de muelles, registro de horas de llegada/zarpe y gestión de disponibilidad de infraestructura.
-* **Operador de Almacén:** Logística de inventario. Clasificación de contenedores por tipo de producto (frágil, tecnológico, etc.), asignación de zonas y gestión de contenedores en *Stand By* (no reclamados).
+* **Operador de Almacén:** Logística de inventario. Clasificación de contenedores por tipo de producto (alimentos, tecnológicos, congelados, químicos, etc.), asignación de zonas y gestión de contenedores en *Stand By* (no reclamados).
 * **Operador de Embarque:** Gestión de carga. Ejecución de procesos de estiba (subir/bajar contenedores) y reporte de incidencias técnicas en barcos.
 * **Administrador:** Supervisión total. Gestión de usuarios, auditoría de procesos y administración maestra de activos (barcos y zonas).
 
